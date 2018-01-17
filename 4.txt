@@ -1,10 +1,16 @@
 
 public class Main{
 
+    private int count;
+
     public static void main(String[] args){
       System.out.println("Hello, Nazar Mykhailechko!!!");
     }
 
        public Main(){};
+       
+       public Main(int count){
+       this.count = count;
+       };
 
 }
