@@ -1,0 +1,3 @@
+How are you?
+Do you like GIT?
+Yes, of course!
